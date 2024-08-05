@@ -1450,7 +1450,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_None_vmess_096
+- name: United States_None_vmess_096
   type: vmess
   server: japan.com
   port: 2086
@@ -1510,7 +1510,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_None_vmess_0100
+- name: United States_None_vmess_0100
   type: vmess
   server: skk.moe
   port: 2086
@@ -2075,11 +2075,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: Canada_Ottawa_vmess_32
   type: vmess
   server: 23.227.38.6
@@ -2090,11 +2090,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None_None_vmess_33
   type: vmess
   server: 104.19.51.232
@@ -2105,11 +2105,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None_None_vmess_34
   type: vmess
   server: 104.19.38.62
@@ -2120,11 +2120,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None_None_vmess_41
   type: vmess
   server: 104.19.46.233
@@ -2135,11 +2135,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: Canada_Ottawa_vmess_42
   type: vmess
   server: 23.227.38.6
@@ -2150,11 +2150,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: None_None_vmess_43
   type: vmess
   server: 104.19.51.232
@@ -2165,11 +2165,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: None_None_vmess_44
   type: vmess
   server: 104.19.38.62
@@ -2180,11 +2180,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: United States_None_ss_51
   type: ss
   server: 23.170.40.77
@@ -2316,7 +2316,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip5-10.freegradely.xyz
-- name: Taiwan_Hsinchu County_ss_81
+- name: Taiwan_Zhubei_ss_81
   server: www2.dtku44.xyz
   type: ss
   port: 443
@@ -2387,11 +2387,11 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip5-10.freegradely.xyz
-- name: United States_Dallas_hy_0
+- name: United States_Los Angeles_hy_0
   type: hysteria
-  server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  server: 91.149.239.23
+  port: 11223
+  ports: 11223
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -2401,11 +2401,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: United States_Dallas_hy_1
+- name: United States_None_hy_1
   type: hysteria
-  server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -2415,11 +2415,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: United States_Dallas_hy_2
+- name: United States_None_hy_2
   type: hysteria
-  server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -2429,11 +2429,11 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: United States_Dallas_hy_3
+- name: United States_None_hy_3
   type: hysteria
-  server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  server: 166.1.221.169
+  port: 11223
+  ports: 11223
   auth_str: dongtaiwang.com
   up: 1000
   down: 1000
@@ -2446,49 +2446,35 @@ proxies:
 - name: United States_None_hy2_0
   type: hysteria2
   server: 207.90.239.157
-  port: 22334
+  port: 15669
   password: dongtaiwang.com
   fast-open: true
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
 - name: United States_None_hy2_1
   type: hysteria2
   server: 207.90.239.157
-  port: 22334
+  port: 15669
   password: dongtaiwang.com
   fast-open: true
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
 - name: United States_None_hy2_2
   type: hysteria2
   server: 207.90.239.157
-  port: 22334
+  port: 15669
   password: dongtaiwang.com
   fast-open: true
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
 - name: United States_None_hy2_3
   type: hysteria2
   server: 207.90.239.157
-  port: 22334
+  port: 15669
   password: dongtaiwang.com
   fast-open: true
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
-- name: France_None_reality_0
-  type: vless
-  server: 62.210.101.0
-  port: 23357
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: U5hsLybYWhJrWAqqsTa052k-VeKt8bDFPxBh3CQk51M
-    short-id: 0b4badde
 proxy-groups:
 - name: 节点选择
   type: select
@@ -2590,11 +2576,11 @@ proxy-groups:
   - Canada_Ottawa_vmess_093
   - None_None_vmess_094
   - United States_None_vmess_095
-  - None_None_vmess_096
+  - United States_None_vmess_096
   - None_None_vmess_097
   - None_None_vmess_098
   - None_None_vmess_099
-  - None_None_vmess_0100
+  - United States_None_vmess_0100
   - None_None_vmess_0101
   - None_None_vmess_11
   - None_None_vmess_12
@@ -2648,20 +2634,19 @@ proxy-groups:
   - Canada_Ottawa_vmess_72
   - None_None_vmess_73
   - None_None_vmess_74
-  - Taiwan_Hsinchu County_ss_81
+  - Taiwan_Zhubei_ss_81
   - None_None_vmess_91
   - Canada_Ottawa_vmess_92
   - None_None_vmess_93
   - None_None_vmess_94
-  - United States_Dallas_hy_0
-  - United States_Dallas_hy_1
-  - United States_Dallas_hy_2
-  - United States_Dallas_hy_3
+  - United States_Los Angeles_hy_0
+  - United States_None_hy_1
+  - United States_None_hy_2
+  - United States_None_hy_3
   - United States_None_hy2_0
   - United States_None_hy2_1
   - United States_None_hy2_2
   - United States_None_hy2_3
-  - France_None_reality_0
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -2763,11 +2748,11 @@ proxy-groups:
   - Canada_Ottawa_vmess_093
   - None_None_vmess_094
   - United States_None_vmess_095
-  - None_None_vmess_096
+  - United States_None_vmess_096
   - None_None_vmess_097
   - None_None_vmess_098
   - None_None_vmess_099
-  - None_None_vmess_0100
+  - United States_None_vmess_0100
   - None_None_vmess_0101
   - None_None_vmess_11
   - None_None_vmess_12
@@ -2821,20 +2806,19 @@ proxy-groups:
   - Canada_Ottawa_vmess_72
   - None_None_vmess_73
   - None_None_vmess_74
-  - Taiwan_Hsinchu County_ss_81
+  - Taiwan_Zhubei_ss_81
   - None_None_vmess_91
   - Canada_Ottawa_vmess_92
   - None_None_vmess_93
   - None_None_vmess_94
-  - United States_Dallas_hy_0
-  - United States_Dallas_hy_1
-  - United States_Dallas_hy_2
-  - United States_Dallas_hy_3
+  - United States_Los Angeles_hy_0
+  - United States_None_hy_1
+  - United States_None_hy_2
+  - United States_None_hy_3
   - United States_None_hy2_0
   - United States_None_hy2_1
   - United States_None_hy2_2
   - United States_None_hy2_3
-  - France_None_reality_0
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
